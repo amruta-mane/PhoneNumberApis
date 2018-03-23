@@ -1,0 +1,12 @@
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\AndDigital.SelfHost.exe.config
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\AndDigital.SelfHost.exe
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\AndDigital.SelfHost.pdb
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\AndDigitalApis.dll
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\AndDigitalApis.pdb
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\AndDigitalApis.dll.config
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Debug\AndDigital.SelfHost.csprojResolveAssemblyReference.cache
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Debug\AndDigital.SelfHost.csproj.CoreCompileInputs.cache
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Debug\AndDigital.SelfHost.csproj.CopyComplete
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Debug\AndDigital.SelfHost.exe
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Debug\AndDigital.SelfHost.pdb
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

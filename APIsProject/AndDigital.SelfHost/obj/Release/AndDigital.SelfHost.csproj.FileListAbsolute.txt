@@ -1,0 +1,12 @@
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Release\AndDigital.SelfHost.csprojResolveAssemblyReference.cache
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Release\AndDigital.SelfHost.csproj.CoreCompileInputs.cache
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\AndDigital.SelfHost.exe.config
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\AndDigital.SelfHost.exe
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\AndDigital.SelfHost.pdb
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\AndDigitalApis.dll
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\AndDigitalApis.pdb
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\bin\Release\AndDigitalApis.dll.config
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Release\AndDigital.SelfHost.csproj.CopyComplete
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Release\AndDigital.SelfHost.exe
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\AndDigital.SelfHost\obj\Release\AndDigital.SelfHost.pdb

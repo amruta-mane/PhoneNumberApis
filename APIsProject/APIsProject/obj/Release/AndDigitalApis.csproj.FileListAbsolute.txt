@@ -1,0 +1,9 @@
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\bin\Release\AndDigitalApis.dll.config
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\bin\Release\AndDigitalApis.dll
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\bin\Release\AndDigitalApis.pdb
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\obj\Release\AndDigitalApis.csprojResolveAssemblyReference.cache
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\obj\Release\AndDigitalApis.csproj.CoreCompileInputs.cache
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\obj\Release\AndDigitalApis.csproj.CopyComplete
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\obj\Release\AndDigitalApis.dll
+C:\Amruta\Projects\AndDigtal\WcfServiceLibrary1\APIsProject\obj\Release\AndDigitalApis.pdb

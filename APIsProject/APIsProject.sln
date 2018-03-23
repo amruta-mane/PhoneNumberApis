@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndDigital.SelfHost", "AndDigital.SelfHost\AndDigital.SelfHost.csproj", "{EBEBDC89-CCB8-4085-9D6A-5BA55A12849B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndDigitalApis", "APIsProject\AndDigitalApis.csproj", "{8529A1B2-FD04-428E-8E4E-AC20434EC39E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEBDC89-CCB8-4085-9D6A-5BA55A12849B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEBDC89-CCB8-4085-9D6A-5BA55A12849B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEBDC89-CCB8-4085-9D6A-5BA55A12849B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEBDC89-CCB8-4085-9D6A-5BA55A12849B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8529A1B2-FD04-428E-8E4E-AC20434EC39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8529A1B2-FD04-428E-8E4E-AC20434EC39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8529A1B2-FD04-428E-8E4E-AC20434EC39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8529A1B2-FD04-428E-8E4E-AC20434EC39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5CB2C9-AEF8-4D1B-9D60-0331EBEB15B0}
+	EndGlobalSection
+EndGlobal
